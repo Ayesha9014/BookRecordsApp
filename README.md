@@ -78,7 +78,7 @@ The project uses a relational database with two primary tables:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [Book Record App](https://github.com/Ayesha9014/BookRecordsApp)
+   git clone #[Book Record App](https://github.com/Ayesha9014/BookRecordsApp)
    ```
 
 2. **Set Up the Database**:
